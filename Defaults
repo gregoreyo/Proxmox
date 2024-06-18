@@ -1,1 +1,7 @@
-
+1. Set static IP
+2. Change the root user to a unique username
+3. Change password of admin account
+4. Setup notifications for:
+    1. storage failure
+    2. critical failures
+5. Backup scheduling
